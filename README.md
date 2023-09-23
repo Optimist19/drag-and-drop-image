@@ -1,6 +1,14 @@
 # React + Vite
 
-The application 
+## The application allows you to drag a picture into the rectangular box in different times and give you the ability to rearrange your pictures.
+
+To run the project
+## Navigate to the project
+## npm install
+## npm run dev
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
